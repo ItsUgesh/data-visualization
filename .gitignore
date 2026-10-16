@@ -220,3 +220,24 @@ __marimo__/
 Automobile_data.csv
 reddit_monkeypox.csv
 Europe Sales Records.csv
+# Natural Earth data (download separately, see README)
+110m_cultural/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.VERSION
+*.README
+
+# Generated output
+world_map.html
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
